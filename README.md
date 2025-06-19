@@ -1,35 +1,16 @@
-# todo-app
+echo "# Vue Todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple Vue.js 3 todo list application that demonstrates event handling, reactive data binding, and basic component structure.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Features
+- Add new todos
+- Delete todos
+- Reactive updates using Vue 3 Composition API
 
 ## Project Setup
 
-```sh
+\`\`\`bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
+\`\`\`
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
