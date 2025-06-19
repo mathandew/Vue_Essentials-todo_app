@@ -1,1 +1,9 @@
+*.vue linguist-language=JavaScript
+*.js linguist-language=JavaScript
+
+/public/** linguist-vendored
+/node_modules/** linguist-vendored
+/dist/** linguist-vendored
+/assets/** linguist-vendored
+
 * text=auto eol=lf
